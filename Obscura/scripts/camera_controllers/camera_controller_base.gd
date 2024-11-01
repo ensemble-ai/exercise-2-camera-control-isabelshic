@@ -3,7 +3,7 @@ extends Camera3D
 
 
 @export var target:Vessel
-@export var dist_above_target:float = 10.0
+@export var dist_above_target:float = 100.0
 @export var zoom_speed:float = 10.0
 @export var min_zoom:float = 5.0
 @export var max_zoom:float = 100.0
